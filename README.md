@@ -4,4 +4,4 @@ First local change
 First change in remote
 Second change in local
 
-doing change from eclipse_new
+doing change from eclipse_new_1
